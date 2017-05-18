@@ -13,3 +13,6 @@ $ git push heroku master
 ```
 $ heroku logs -t -a
 ```
+```
+$ heroku config:set TIMES=2
+```

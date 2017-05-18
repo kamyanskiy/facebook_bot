@@ -6,3 +6,9 @@ Jinja2==2.8
 MarkupSafe==0.23
 requests==2.10.0
 Werkzeug==0.11.10
+psycopg2==2.7.1
+Flask-SQLAlchemy==2.2
+
+# Reddit
+praw==4.5.1
+
