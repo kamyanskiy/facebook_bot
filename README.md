@@ -32,3 +32,8 @@ heroku run python
 ```
 $ heroku pg:psql
 ```
+How to commit local branch (not master) to Heroku
+```
+git push heroku +HEAD:master
+git push -f heroku HEAD:master
+```
